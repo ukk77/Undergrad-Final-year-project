@@ -1,3 +1,2 @@
-# Undergrad-Final-year-project
-
-https://drive.google.com/open?id=0BzSfXrKqARtPb01jeS04UW5FM3c
+This project was made to convert text from images to speech using android devices.
+The files presentation_final.pdf contains all the details about the project and also contains sample output generated from the project.
